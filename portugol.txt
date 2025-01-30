@@ -1,0 +1,14 @@
+inicio(){
+    acordo;
+    me levanto da cama;
+    vou ao banheiro;
+    escovo os dentes;
+    vou ate a cozinha;
+    preparo meu café;
+    tomo café da manhã;
+    estudo;
+    vou trabalhar
+    volto para casa
+    durmo
+
+}
