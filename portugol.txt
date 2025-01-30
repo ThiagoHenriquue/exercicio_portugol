@@ -7,8 +7,8 @@ inicio(){
     preparo meu café;
     tomo café da manhã;
     estudo;
-    vou trabalhar
-    volto para casa
-    durmo
+    vou trabalhar;
+    volto para casa;
+    durmo;
 
 }
